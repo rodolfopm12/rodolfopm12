@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HJYW1KKZ5CEZKWXZC74BB3C1
-  version: v2.0
----
-
 ### Hi there 👋 hols
 
 <!--

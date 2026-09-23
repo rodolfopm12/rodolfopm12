@@ -1,8 +1,13 @@
-# @Hitman — [Hitman.IT](https://hitman.it/) 👋
+
+
+# @Rodolfo — [Hitman.IT](https://hitman.it/) 👋
+
 ## Profiles
-- **Linkedin:** [Rodolfo Perez](https://www.linkedin.com/in/joseromanhdez/) 💼
+
+- **Linkedin:** [Rodolfo Perez](https://www.linkedin.com/in/rodolfopm12/) 💼
+
 > [!NOTE]
-TESTO
+> TESTO
 
 > [!TIP]
 > test
@@ -29,4 +34,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
